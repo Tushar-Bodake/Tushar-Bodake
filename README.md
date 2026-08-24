@@ -87,47 +87,6 @@ I'm a **Computer Engineering student** and aspiring **Full Stack Java Developer*
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-<img
- src="./profile/top-langs.svg"
- height="180"
- alt="Top Languages"
-/>
-
-</p>
-
----
-
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-bodake&theme=tokyo-night&hide_border=true&area=true"
-    alt="Contribution Activity Graph"
-  />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=tushar-bodake&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
 # 🚀 Featured Projects
 
 <table>
@@ -206,20 +165,6 @@ My personal portfolio showcasing projects, technical skills, experience and deve
 <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 
 </p>
-
----
-
-# 🧊 3D Contribution Graph
-
-<p align="center">
-  <img
-    src="./profile-3d-contrib/profile-green-animate.svg"
-    alt="3D Contribution Graph"
-    width="900"
-  />
-</p>
-
----
 
 # 📄 Resume
 
