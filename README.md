@@ -5,12 +5,8 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/tushar-bodake">
-    <img src="https://komarev.com/ghpvc/?username=tushar-bodake&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
-  </a>
-  <a href="https://github.com/tushar-bodake?tab=followers">
-    <img src="https://img.shields.io/github/followers/tushar-bodake?label=Followers&style=flat-square" alt="GitHub Followers"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=tushar-bodake&label=Profile%20Views&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/tushar-bodake?label=Followers&style=flat-square" alt="GitHub Followers"/>
 </p>
 
 <p align="center">
@@ -31,12 +27,12 @@
 
 I'm a **Computer Engineering student** and aspiring **Full Stack Java Developer** who enjoys building practical applications and continuously improving my development skills.
 
-* 🎓 Computer Engineering student at **AISSMS Institute of Information Technology, Pune**
-* 💻 Focused on **Full Stack Java Development**
-* 🌱 Currently learning **Java, Spring Boot, React & Backend Development**
-* 🧩 Practicing **Data Structures & Algorithms**
-* 🚀 Interested in building practical and real-world software solutions
-* ☕ **Code • Coffee • Repeat**
+- 🎓 Computer Engineering student at **AISSMS Institute of Information Technology, Pune**
+- 💻 Focused on **Full Stack Java Development**
+- 🌱 Currently learning **Java, Spring Boot, React & Backend Development**
+- 🧩 Practicing **Data Structures & Algorithms**
+- 🚀 Interested in building practical and real-world software solutions
+- ☕ **Code • Coffee • Repeat**
 
 ---
 
@@ -59,7 +55,7 @@ I'm a **Computer Engineering student** and aspiring **Full Stack Java Developer*
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ### 💻 Languages
 
@@ -87,16 +83,16 @@ I'm a **Computer Engineering student** and aspiring **Full Stack Java Developer*
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tushar-bodake&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-bodake&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Top Languages" />
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+## 🔥 Contribution Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=tushar-bodake&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
@@ -104,7 +100,7 @@ I'm a **Computer Engineering student** and aspiring **Full Stack Java Developer*
 
 ---
 
-# 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-bodake&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Activity Graph" />
@@ -112,7 +108,7 @@ I'm a **Computer Engineering student** and aspiring **Full Stack Java Developer*
 
 ---
 
-# 🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=tushar-bodake&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies" />
@@ -120,63 +116,44 @@ I'm a **Computer Engineering student** and aspiring **Full Stack Java Developer*
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 <table>
 <tr>
-
 <td width="50%">
 
 ### 💰 Digital Gullak
-
 A modern digital savings application for managing savings, deposits, withdrawals and transaction history.
 
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Firebase` `PHP` `MySQL`
+**Tech Stack:** `HTML` `CSS` `JavaScript` `Firebase` `PHP` `MySQL`
 
 </td>
-
 <td width="50%">
 
 ### 🏗️ RMC ERP
-
 An ERP-based web application developed for managing operations of a Ready Mix Concrete plant.
 
-**Tech Stack**
-
-`PHP` `MySQL` `JavaScript` `Bootstrap`
+**Tech Stack:** `PHP` `MySQL` `JavaScript` `Bootstrap`
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%">
 
 ### 🚗 Car Rental Portal
-
 A web-based car rental application for managing vehicles and rental-related operations.
 
-**Tech Stack**
-
-`PHP` `MySQL` `HTML` `CSS` `JavaScript`
+**Tech Stack:** `PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
 </td>
-
 <td width="50%">
 
 ### 🌐 Developer Portfolio
-
 My personal portfolio showcasing projects, technical skills, experience and development journey.
 
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript`
+**Tech Stack:** `HTML` `CSS` `JavaScript`
 
 </td>
-
 </tr>
 </table>
 
@@ -186,28 +163,20 @@ My personal portfolio showcasing projects, technical skills, experience and deve
   </a>
 </p>
 
-
-  # 🧊 3D Contribution Graph
-
-  <p align="center">
-    <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" width="900" />
-  </p>
-
-  ---
 ---
 
-# 📚 Currently Learning
+## 📚 Currently Learning
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
 </p>
 
-# 📄 Resume
+---
+
+## 📄 Resume
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1rNlS7L8j2JeG29fDY1qX5tE5Cn6eZLy_/view?usp=sharing">
@@ -218,7 +187,4 @@ My personal portfolio showcasing projects, technical skills, experience and deve
 ---
 
 <h3 align="center">💡 Building • Learning • Improving</h3>
-
-<p align="center">
-  <i>Thanks for visiting my profile! ⭐</i>
-</p>
+<p align="center"><i>Thanks for visiting my profile! ⭐</i></p>
