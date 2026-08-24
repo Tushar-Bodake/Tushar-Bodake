@@ -29,14 +29,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Engineering student** and an aspiring **Full Stack Java Developer** who enjoys building practical applications and learning new technologies.
+I'm a **Computer Engineering student** and aspiring **Full Stack Java Developer** who enjoys building practical applications and continuously improving my development skills.
 
 * 🎓 Computer Engineering student at **AISSMS Institute of Information Technology, Pune**
-* 💻 Currently focusing on **Java & Full Stack Development**
-* 🌱 Learning **Spring Boot, React, Backend Development & DSA**
-* 🚀 Interested in building real-world software solutions
-* 🧩 Practicing **Data Structures, Algorithms & Problem Solving**
-* ⚡ Fun fact: **Code • Coffee • Repeat**
+* 💻 Focused on **Full Stack Java Development**
+* 🌱 Currently learning **Java, Spring Boot, React & Backend Development**
+* 🧩 Practicing **Data Structures & Algorithms**
+* 🚀 Interested in building practical and real-world software solutions
+* ☕ **Code • Coffee • Repeat**
 
 ---
 
@@ -64,25 +64,25 @@ I'm a **Computer Engineering student** and an aspiring **Full Stack Java Develop
 ### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,php" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,php" alt="Languages"/>
 </p>
 
 ### 🎨 Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,materialui" alt="Frontend Technologies"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,materialui" alt="Frontend"/>
 </p>
 
 ### ⚙️ Backend & Database
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,php,mysql,mongodb,firebase" alt="Backend and Database"/>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,php,mysql,mongodb,firebase" alt="Backend"/>
 </p>
 
-### 🔧 Tools & Platforms
+### 🔧 Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" alt="Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" alt="Tools"/>
 </p>
 
 ---
@@ -91,28 +91,17 @@ I'm a **Computer Engineering student** and an aspiring **Full Stack Java Develop
 
 <p align="center">
   <img
+    src="./profile/stats.svg"
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=tushar-bodake&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight"
-    alt="Tushar's GitHub Stats"
+    alt="GitHub Stats"
   />
 
 <img
+ src="./profile/top-langs.svg"
  height="180"
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-bodake&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
- alt="Tushar's Top Languages"
+ alt="Top Languages"
 />
 
-</p>
-
----
-
-# 🔥 GitHub Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=tushar-bodake&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
 </p>
 
 ---
@@ -122,7 +111,7 @@ I'm a **Computer Engineering student** and an aspiring **Full Stack Java Develop
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-bodake&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
+    alt="Contribution Activity Graph"
   />
 </p>
 
@@ -143,11 +132,12 @@ I'm a **Computer Engineering student** and an aspiring **Full Stack Java Develop
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 💰 Digital Gullak
 
-A modern digital savings application designed to help users manage savings, deposits, withdrawals and transaction history.
+A modern digital savings application for managing savings, deposits, withdrawals and transaction history.
 
 **Tech Stack**
 
@@ -166,9 +156,11 @@ An ERP-based web application developed for managing operations of a Ready Mix Co
 `PHP` `MySQL` `JavaScript` `Bootstrap`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🚗 Car Rental Portal
@@ -185,19 +177,20 @@ A web-based car rental application for managing vehicles and rental-related oper
 
 ### 🌐 Developer Portfolio
 
-My personal portfolio showcasing my projects, technical skills, experience and development journey.
+My personal portfolio showcasing projects, technical skills, experience and development journey.
 
 **Tech Stack**
 
 `HTML` `CSS` `JavaScript`
 
 </td>
+
 </tr>
 </table>
 
 <p align="center">
   <a href="https://tushar-bodake.netlify.app/">
-    <img src="https://img.shields.io/badge/Explore%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/>
   </a>
 </p>
 
@@ -211,7 +204,6 @@ My personal portfolio showcasing my projects, technical skills, experience and d
 <img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
-<img src="https://img.shields.io/badge/Backend%20Development-000000?style=for-the-badge&logo=node.js&logoColor=339933"/>
 
 </p>
 
@@ -222,7 +214,7 @@ My personal portfolio showcasing my projects, technical skills, experience and d
 <p align="center">
   <img
     src="./profile-3d-contrib/profile-green-animate.svg"
-    alt="3D GitHub Contribution Graph"
+    alt="3D Contribution Graph"
     width="900"
   />
 </p>
