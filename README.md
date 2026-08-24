@@ -1,18 +1,27 @@
 <h1 align="center">Hi 👋, I'm Tushar Bodake</h1>
 
 <h3 align="center">
-  Full Stack Java Developer • Computer Engineering Student • Open Source Enthusiast
+  Full Stack Java Developer • Computer Engineering Student • Developer
 </h3>
 
 <p align="center">
   <a href="https://github.com/tushar-bodake">
-    <img src="https://komarev.com/ghpvc/?username=tushar-bodake&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+    <img src="https://komarev.com/ghpvc/?username=tushar-bodake&label=Profile%20Views&style=flat-square" alt="Profile Views"/>
   </a>
   <a href="https://github.com/tushar-bodake?tab=followers">
-    <img src="https://img.shields.io/github/followers/tushar-bodake?label=Followers&style=flat" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/tushar-bodake?label=Followers&style=flat-square" alt="GitHub Followers"/>
   </a>
-  <a href="https://github.com/tushar-bodake?tab=repositories">
-    <img src="https://img.shields.io/github/stars/tushar-bodake?label=Stars&style=flat" alt="GitHub Stars"/>
+</p>
+
+<p align="center">
+  <a href="https://tushar-bodake.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/tushar-bodake-8b526a312/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:bodaketushar90@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -20,61 +29,60 @@
 
 ## 👨‍💻 About Me
 
+I'm a **Computer Engineering student** and an aspiring **Full Stack Java Developer** who enjoys building practical applications and learning new technologies.
+
 * 🎓 Computer Engineering student at **AISSMS Institute of Information Technology, Pune**
-* 💻 Focused on **Full Stack Java Development**
-* 🌱 Currently improving my skills in **Java, Spring Boot, React and Backend Development**
-* 🚀 Interested in building practical, real-world applications
-* 🧩 Currently practicing **DSA, problem solving and software development**
-* ☕ Code • Coffee • Repeat
+* 💻 Currently focusing on **Java & Full Stack Development**
+* 🌱 Learning **Spring Boot, React, Backend Development & DSA**
+* 🚀 Interested in building real-world software solutions
+* 🧩 Practicing **Data Structures, Algorithms & Problem Solving**
+* ⚡ Fun fact: **Code • Coffee • Repeat**
 
 ---
 
-## 🔗 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://tushar-bodake.netlify.app/" target="_blank">
+  <a href="https://tushar-bodake.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/tushar-bodake-8b526a312/" target="_blank">
+  <a href="https://www.linkedin.com/in/tushar-bodake-8b526a312/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:bodaketushar90@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.instagram.com/iam.tushaaar/" target="_blank">
+  <a href="https://www.instagram.com/iam.tushaaar/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://leetcode.com/u/_tushar_1234_/" target="_blank">
+  <a href="https://leetcode.com/u/_tushar_1234_/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
   </a>
 </p>
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Languages
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,php" alt="Languages"/>
-</p>
-
-### Frontend
+### 💻 Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,materialui" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,python,javascript,php" alt="Programming Languages"/>
 </p>
 
-### Backend & Database
+### 🎨 Frontend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind,materialui" alt="Frontend Technologies"/>
+</p>
+
+### ⚙️ Backend & Database
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=spring,nodejs,php,mysql,mongodb,firebase" alt="Backend and Database"/>
 </p>
 
-### Tools & Platforms
+### 🔧 Tools & Platforms
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,postman" alt="Development Tools"/>
 </p>
 
 ---
@@ -82,13 +90,29 @@
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=tushar-bodake&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&theme=tokyonight" alt="Tushar's GitHub Stats"/>
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=tushar-bodake&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=tokyonight"
+    alt="Tushar's GitHub Stats"
+  />
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-bodake&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" alt="Top Languages"/>
+<img
+ height="180"
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar-bodake&layout=compact&langs_count=8&hide_border=true&theme=tokyonight"
+ alt="Tushar's Top Languages"
+/>
+
 </p>
 
+---
+
+# 🔥 GitHub Contribution Streak
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tushar-bodake&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img
+    src="https://streak-stats.demolab.com/?user=tushar-bodake&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
 </p>
 
 ---
@@ -96,15 +120,21 @@
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-bodake&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=tushar-bodake&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+  />
 </p>
 
 ---
 
-# 🏆 GitHub Achievements
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tushar-bodake&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub Trophies"/>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=tushar-bodake&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
+    alt="GitHub Trophies"
+  />
 </p>
 
 ---
@@ -117,9 +147,11 @@
 
 ### 💰 Digital Gullak
 
-A modern digital savings/piggy-bank application designed to help users manage savings, deposits and withdrawals.
+A modern digital savings application designed to help users manage savings, deposits, withdrawals and transaction history.
 
-**Tech:** HTML • CSS • JavaScript • Firebase • PHP • MySQL
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `Firebase` `PHP` `MySQL`
 
 </td>
 
@@ -127,9 +159,11 @@ A modern digital savings/piggy-bank application designed to help users manage sa
 
 ### 🏗️ RMC ERP
 
-Enterprise-oriented ERP software developed for managing operations of a Ready Mix Concrete plant.
+An ERP-based web application developed for managing operations of a Ready Mix Concrete plant.
 
-**Tech:** PHP • MySQL • JavaScript • Bootstrap
+**Tech Stack**
+
+`PHP` `MySQL` `JavaScript` `Bootstrap`
 
 </td>
 </tr>
@@ -139,9 +173,11 @@ Enterprise-oriented ERP software developed for managing operations of a Ready Mi
 
 ### 🚗 Car Rental Portal
 
-A web-based car rental platform for browsing vehicles and managing rental-related operations.
+A web-based car rental application for managing vehicles and rental-related operations.
 
-**Tech:** PHP • MySQL • HTML • CSS • JavaScript
+**Tech Stack**
+
+`PHP` `MySQL` `HTML` `CSS` `JavaScript`
 
 </td>
 
@@ -151,7 +187,9 @@ A web-based car rental platform for browsing vehicles and managing rental-relate
 
 My personal portfolio showcasing my projects, technical skills, experience and development journey.
 
-**Tech:** HTML • CSS • JavaScript
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript`
 
 </td>
 </tr>
@@ -159,7 +197,7 @@ My personal portfolio showcasing my projects, technical skills, experience and d
 
 <p align="center">
   <a href="https://tushar-bodake.netlify.app/">
-    <img src="https://img.shields.io/badge/View_All_Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+    <img src="https://img.shields.io/badge/Explore%20My%20Projects-000000?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
   </a>
 </p>
 
@@ -167,40 +205,31 @@ My personal portfolio showcasing my projects, technical skills, experience and d
 
 # 📚 Currently Learning
 
-```text
-Java & Spring Boot       ███████████████░░░░░
-React & Frontend         ████████████████░░░░
-Data Structures & Algo   ████████████░░░░░░░░
-Backend Development      █████████████░░░░░░░
-System Design            ████████░░░░░░░░░░░░
-```
-
----
-
-# 🔥 Contribution Streak
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=tushar-bodake&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution Streak"/>
+
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring%20Boot-000000?style=for-the-badge&logo=springboot&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/DSA-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116"/>
+<img src="https://img.shields.io/badge/Backend%20Development-000000?style=for-the-badge&logo=node.js&logoColor=339933"/>
+
 </p>
 
 ---
 
-# 🌌 3D Contribution Graph
-
-<!--
-This section will work after setting up the
-github-profile-3d-contrib GitHub Action.
-
-After the Action generates the image, keep this section.
--->
+# 🧊 3D Contribution Graph
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green.svg" alt="3D Contribution Graph" width="900"/>
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    alt="3D GitHub Contribution Graph"
+    width="900"
+  />
 </p>
 
 ---
 
-## 📄 Resume
+# 📄 Resume
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1rNlS7L8j2JeG29fDY1qX5tE5Cn6eZLy_/view?usp=sharing">
@@ -210,9 +239,7 @@ After the Action generates the image, keep this section.
 
 ---
 
-<h3 align="center">
-  💡 Building. Learning. Improving. Every Day.
-</h3>
+<h3 align="center">💡 Building • Learning • Improving</h3>
 
 <p align="center">
   <i>Thanks for visiting my profile! ⭐</i>
