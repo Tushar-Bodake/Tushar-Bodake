@@ -179,7 +179,7 @@ My personal portfolio showcasing projects, technical skills, experience and deve
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1rNlS7L8j2JeG29fDY1qX5tE5Cn6eZLy_/view?usp=sharing">
+  <a href="[https://drive.google.com/file/d/1rNlS7L8j2JeG29fDY1qX5tE5Cn6eZLy_/view?usp=sharing](https://drive.google.com/file/d/1Z2_w-nuMdnPnP9scsmp72BWlQhkz9Tsr/view?usp=sharing)">
     <img src="https://img.shields.io/badge/View%20My%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume"/>
   </a>
 </p>
